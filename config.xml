@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-		id          = "pierwsze zadanie"
+		id          = "businescard"
         version     = "1.0.0" >
 
     <name>BAI MD</name>
-    <description>Moja pierwsza potezna apka</description>
+    <description>Taka przedstawiajka</description>
     <author href="http://mypersonalwebsite.com" email="johnbrown@gmail.com">
 		John Brown
 	</author>
