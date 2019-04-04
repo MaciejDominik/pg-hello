@@ -23,7 +23,7 @@ function onDeviceReady() {
 function myInfo() {
 
 	info =  'Hi, I am myself :-)' + '\n' +
-			'=====' + '\n' 
+			'=====' + '\n' + 
 			'My Name : Maciej \n' + 
 			'My Surname : Dominik \n' +  
 			'My Age : 24 \n' + 
